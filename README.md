@@ -1,6 +1,8 @@
 # TimeSeriesTraitsCalculator
 A GUI tool to calculate Phenotyping traits data (Height and NDVI) .
 
+Ececutable file: TimeSeriesTraitsCalculator.py
+
 Tool Information:
 
 Expected format for Height Data collected from Drone):
